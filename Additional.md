@@ -1,2 +1,3 @@
 -- Мои изменения в ветке master
 -- Мои изменения в ветке 2_GitHubMergeCommit
+-- Новые измеенния в ветке 2_GitHubMergeCommit
