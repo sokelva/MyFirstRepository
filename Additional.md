@@ -1,0 +1,1 @@
+-- Мои изменения в ветке 2_GitHubMergeCommit
